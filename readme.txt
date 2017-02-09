@@ -7,7 +7,4 @@
 7777
 8888
 9999
-aaaa
-ccccc
-bbbbbb
 
